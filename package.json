@@ -1,0 +1,27 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@fullcalendar/core": "^6.1.15",
+    "@fullcalendar/daygrid": "^6.1.15",
+    "@fullcalendar/interaction": "^6.1.15",
+    "@fullcalendar/react": "^6.1.15",
+    "@fullcalendar/timegrid": "^6.1.15",
+    "@libsql/client": "^0.14.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.7.0",
+    "uuid": "^11.0.2",
+    "websocket": "^1.0.35",
+    "ws": "^8.18.0"
+  }
+}
